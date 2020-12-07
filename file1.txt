@@ -1,8 +1,5 @@
 hi this is 1st line file
 this is 2 nd line of file
-
-<<<<<<< HEAD
 thsis is 3rd line of file
-=======
 thsis 4th line of file
->>>>>>> a4ca95f26196e457d1305e09b830faf7019cdc39
+
